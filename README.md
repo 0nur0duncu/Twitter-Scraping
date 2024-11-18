@@ -112,21 +112,6 @@ The application handles the following scenarios:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-## 📫 Contact
-
-Project Maintainer: [Name]
-Project Link: [GitHub Repo URL]
-
-## 🙏 Acknowledgments
-
-- Selenium team
-- fake-useragent developers
-- All contributors
-
 ## 🔍 Technical Details
 
 ### Main Components
